@@ -24,3 +24,13 @@
 
 ## Vamos nos conectar!
 Estou sempre aberta a novas oportunidades e colaborações. Vamos nos conectar e trocar ideias! 🚀
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagomess&layout=compact&theme=radical)](https://github.com/jessicaagomess)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessicagomess&show_icons=true&theme=radical)
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicagomess&theme=dark" alt="jessicagomess"/>
+</div>
+
